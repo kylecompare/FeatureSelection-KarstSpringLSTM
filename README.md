@@ -3,10 +3,10 @@ This is the repository containing all the data and code used in the investigatio
 
 This repository contains folders for Code, Data, Plots, Models, Results  and Additional Figures.
 
-Some raw data was colected manually fform the Northwest Florida Water Management District online portal (https://nwfwmd.aquaticinformatics.net/) and the Florida Climate Center (https://climatecenter.fsu.edu/climate-data-access-tools/downloadable-data), and this has been noted in the code when appropriate. USGS data of Wakulla Spring was downloaded within the notebook. Both raw and processed data can be found in the data folder.
+Some raw data was collected manually frm the Northwest Florida Water Management District online portal (https://nwfwmd.aquaticinformatics.net/) and the Florida Climate Center (https://climatecenter.fsu.edu/climate-data-access-tools/downloadable-data), and this has been noted in the code when appropriate. USGS data of Wakulla Spring was downloaded within the notebook. Both raw and processed data can be found in the data folder.
 
 
-Code is organized in 4 Juptyer notebooks
+Code is organized in 4 Jupyter Notebooks
 1. Data processing
 2. Hyperparameter tuning for each of the neural networks
 3. Training the neural networks under the tuned parameters and saving the network weights and simulation results
@@ -18,5 +18,5 @@ Model weights for each of the models are saved in the Models folder from Noteboo
 
 Plots generated with code are saved in the Plots folder from Notebook 4.
 
-Soem additional figures for this study were generated in ArcGIS Pro and Adobe Illustrator, and these files can be found in the AdditionalFigures folder.
+Some additional figures for this study were generated in ArcGIS Pro and Adobe Illustrator, and these files can be found in the AdditionalFigures folder.
 
